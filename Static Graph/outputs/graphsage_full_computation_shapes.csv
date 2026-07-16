@@ -1,0 +1,6 @@
+object,shape,meaning
+Input features H[0],"(2708, 1433)",Original Cora paper features
+Layer 1 neighbor mean,"(2708, 1433)",Mean of neighbor input features
+Layer 1 embeddings H[1],"(2708, 32)",First learned representation
+Layer 2 neighbor mean,"(2708, 32)",Mean of neighbor layer-1 embeddings
+Layer 2 embeddings H[2],"(2708, 16)",Final node embeddings

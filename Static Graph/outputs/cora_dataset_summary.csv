@@ -1,0 +1,2 @@
+num_nodes,num_directed_edges_in_pyg_edge_index,num_unique_undirected_edges,num_features_per_node,num_classes,average_degree,median_degree,max_degree,min_degree,average_nonzero_features_per_node,median_nonzero_features_per_node,train_nodes,validation_nodes,test_nodes
+2708,10556,5278,1433,7,3.8980797636632203,3.0,168,1,18.174298375184637,20.0,140,500,1000
