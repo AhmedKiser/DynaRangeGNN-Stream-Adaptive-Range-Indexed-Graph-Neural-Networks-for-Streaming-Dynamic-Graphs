@@ -1,0 +1,2 @@
+dataset,num_loaded_events,num_nodes,num_initial_events,num_stream_batches,mean_local_ms,mean_full_ms,mean_speedup,max_embedding_error,mean_l1_dirty,mean_l2_dirty,mean_membership_changed,mean_embedding_cache_mb,mean_range_index_mb,mean_dynarange_roc_auc,mean_full_roc_auc,mean_dynarange_ap,mean_full_ap
+tgbl-wiki,10000,8750,4000,60,34.545849999979815,42.90923833335304,1.2695953827418007,8.58306884765625e-06,98.0,104.61666666666666,24.083333333333332,3.4046173095703125,0.044632975260416666,0.8291630257419026,0.995946458443098,0.833558367760815,0.9934320355939278

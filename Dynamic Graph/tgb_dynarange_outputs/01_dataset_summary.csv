@@ -1,0 +1,2 @@
+num_nodes_total,num_active_nodes,num_events,num_unique_undirected_edges,mean_degree,median_degree,max_degree,min_time,max_time
+8750,1852,10000,1914,0.4374857142857143,0.0,62,0.0,232505.0
